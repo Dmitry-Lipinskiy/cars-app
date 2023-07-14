@@ -1,3 +1,5 @@
+You can view the result in a browser using this link:
+
 # CarsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
